@@ -61,9 +61,9 @@ export default {
       // 筛选卡片是否显示
       selectCard: false,
       // 全部事件列表
-      eventTypeList: ['page', 'clck', 'imp', 'chng', 'event'],
+      eventTypeList: ['page', 'click', 'imp', 'chng', 'event'],
       // 被选中的
-      showTypeList: ['page', 'clck', 'imp', 'chng', 'event']
+      showTypeList: ['page', 'click', 'imp', 'chng', 'event']
     }
   },
   mounted() {
