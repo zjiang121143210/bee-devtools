@@ -12,7 +12,7 @@ Bee web采集系统 chrome调试工具。
 
 ## 使用方式
 
-[bee-devtools.chx](http://clew.fun/bee-devtools.chx)
+[bee-devtools.crx](http://clew.fun/bee-devtools.crx)
 
 下载上方文件，并重命名为`bee-devtools.zip`,然后在chrome扩展管理页**加载已解压的扩展程序**。
 
@@ -20,7 +20,7 @@ Bee web采集系统 chrome调试工具。
 
 ## 使用 Bee devtools 测试数据
 
-[bee-devtools.chx](http://clew.fun/bee-devtools.chx)
+[bee-devtools.crx](http://clew.fun/bee-devtools.crx)
 
 在空白处点击右键 > 检查（或 F12），打开Chrome浏览器的Dev Tool，可以看到出现了一个新的Tab为：GIO Web Debugger。实施技术顾问就可以在这个Tab页面上进行添加代码后的质量验证工作了。
 
